@@ -65,100 +65,100 @@ Thermic insulation : airlock, waterlock, double lock: allowed, as said for gases
 
 # Mods
 ## QOL
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2002421412 Customizable Speed: 1.5 / 3 / 5
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1960996649 Show Building Ranges
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2946564795 Ladder Replace
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1717463209 Bigger Camera Zoom Out
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1703611962 Bigger building menu
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1822160024 Wounded Go to med bed
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1863428350 Sweep By Type
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1868454866 No Drop // by @Ony
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2154537340 Don't Idle in Doors
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1725950119 No 'Long Commutes'
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2208398090 Traffic Visualizer
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1983504552 Thermal Tooltips
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2982985962 Auto Suit Delivery: Settings: Delivery After Time: 300
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1960947963 Better Info Cards
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1887236601 Favorite Buildings ⭐ Custom Key Bindings // by @Ony 👾
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2359640901 Rename Asteroids: the rename works only if we rename with the pencil-button on the info card, not directly from the UI
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1878896484 Better Automation Overlay
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1843965353 Mod Manager. Another version less complete: https://steamcommunity.com/sharedfiles/filedetails/?id=2018291283 Mod Updater
-- https://steamcommunity.com/sharedfiles/filedetails/?id=3284635963: Mods Presets Organizer
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2196347807 Mod Filter
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1870540864 DraggableUI
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2169776807 Clarified Max Decor
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1717526174 Plan Buildings Without Materials
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2600818338 Material Selection Properties
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2026932869 Always Show Capacity
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2135682628 Build Straight Up
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1832319118 Suppress Notifications
-- https://steamcommunity.com/sharedfiles/filedetails/?id=3164212090 Build Menu Search Hotkey
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2834936494 Forbid Items
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2493100777 Pip Plant Overlay
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2062232295 Hide Panel On Build
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2667816955 Move This Here
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2295306784 Default Off Switch
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1992978572 Deconstruct Only Buildings
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2435244304 Blueprints fixed
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1863598374 Deselect New Materials
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2607620648 Mismatched Wire Finder
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1897096779 research tree QOL
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1874600082 Efficient Supply
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2852279246 Rebuild Tiles
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1708809748 Critical Notification Pauser
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1887869179 Sufficient Oxygen Generation
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1835394161 Build Over Plants
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2047308624 No Manual Delivery
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1831438994 Critter Inventory
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2679005270 Worn Suit doesn't drop Canister & Suit Docks Tune-Up
-- https://steamcommunity.com/sharedfiles/filedetails/?id=3333197339 Priority Master // by @Ony 👾. Settings: Passer toutes les Default Priorities à 3.
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2982316671 Planning Tool
+- [Customizable Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2002421412) Settings: 1.5 / 3 / 5
+- [Show Building Ranges](https://steamcommunity.com/sharedfiles/filedetails/?id=1960996649)
+- [Ladder Replace](https://steamcommunity.com/sharedfiles/filedetails/?id=2946564795)
+- [Bigger Camera Zoom Out](https://steamcommunity.com/sharedfiles/filedetails/?id=1717463209)
+- [Bigger building menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1703611962)
+- [Wounded Go to med bed](https://steamcommunity.com/sharedfiles/filedetails/?id=1822160024)
+- [Sweep By Type](https://steamcommunity.com/sharedfiles/filedetails/?id=1863428350)
+- [No Drop // by @Ony](https://steamcommunity.com/sharedfiles/filedetails/?id=1868454866)
+- [Don't Idle in Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=2154537340)
+- [No 'Long Commutes'](https://steamcommunity.com/sharedfiles/filedetails/?id=1725950119)
+- [Traffic Visualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2208398090)
+- [Thermal Tooltips](https://steamcommunity.com/sharedfiles/filedetails/?id=1983504552)
+- [Auto Suit Delivery](https://steamcommunity.com/sharedfiles/filedetails/?id=2982985962) Settings: Delivery After Time: 300
+- [Better Info Cards](https://steamcommunity.com/sharedfiles/filedetails/?id=1960947963)
+- [Favorite Buildings ⭐ Custom Key Bindings // by @Ony 👾](https://steamcommunity.com/sharedfiles/filedetails/?id=1887236601)
+- [Rename Asteroids](https://steamcommunity.com/sharedfiles/filedetails/?id=2359640901) the rename works only if we rename with the pencil-button on the info card, not directly from the UI
+- [Better Automation Overlay](https://steamcommunity.com/sharedfiles/filedetails/?id=1878896484)
+- [Mod Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1843965353) or . [another Mod Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2018291283)
+- [Mods Presets Organizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3284635963)
+- [Mod Filter](https://steamcommunity.com/sharedfiles/filedetails/?id=2196347807)
+- [DraggableUI](https://steamcommunity.com/sharedfiles/filedetails/?id=1870540864)
+- [Clarified Max Decor](https://steamcommunity.com/sharedfiles/filedetails/?id=2169776807)
+- [Plan Buildings Without Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=1717526174)
+- [Material Selection Properties](https://steamcommunity.com/sharedfiles/filedetails/?id=2600818338)
+- [Always Show Capacity](https://steamcommunity.com/sharedfiles/filedetails/?id=2026932869 )
+- [Build Straight Up](https://steamcommunity.com/sharedfiles/filedetails/?id=2135682628)
+- [Suppress Notifications](https://steamcommunity.com/sharedfiles/filedetails/?id=1832319118)
+- [Build Menu Search Hotkey](https://steamcommunity.com/sharedfiles/filedetails/?id=3164212090)
+- [Forbid Items](https://steamcommunity.com/sharedfiles/filedetails/?id=2834936494)
+- [Pip Plant Overlay](https://steamcommunity.com/sharedfiles/filedetails/?id=2493100777)
+- [Hide Panel On Build](https://steamcommunity.com/sharedfiles/filedetails/?id=2062232295)
+- [Move This Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2667816955)
+- [Default Off Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=2295306784)
+- [Deconstruct Only Buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=1992978572)
+- [Blueprints fixed](https://steamcommunity.com/sharedfiles/filedetails/?id=2435244304)
+- [Deselect New Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=1863598374)
+- [Mismatched Wire Finder](https://steamcommunity.com/sharedfiles/filedetails/?id=2607620648)
+- [Research Tree QOL](https://steamcommunity.com/sharedfiles/filedetails/?id=1897096779)
+- [Efficient Supply](https://steamcommunity.com/sharedfiles/filedetails/?id=1874600082)
+- [Rebuild Tiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2852279246)
+- [Critical Notification Pauser](https://steamcommunity.com/sharedfiles/filedetails/?id=1708809748)
+- [Sufficient Oxygen Generation](https://steamcommunity.com/sharedfiles/filedetails/?id=1887869179)
+- [Build Over Plants](https://steamcommunity.com/sharedfiles/filedetails/?id=1835394161)
+- [No Manual Delivery](https://steamcommunity.com/sharedfiles/filedetails/?id=2047308624)
+- [Critter Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=1831438994)
+- [Worn Suit doesn't drop Canister & Suit Docks Tune-Up](https://steamcommunity.com/sharedfiles/filedetails/?id=2679005270)
+- [Priority Master // by @Ony 👾](https://steamcommunity.com/sharedfiles/filedetails/?id=3333197339) Settings: Passer toutes les Default Priorities à 3
+- [Planning Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=2982316671 )
 
 ## Cosmetic
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2883096049 Signs, Tags and Ribbons
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1937854017 Clean Floors
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1732501619 Decor Lights
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2930191391 Extra Moulding Skins [Vanilla + DLC]
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2875363453 More Small Sculptures
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2789182100 More Marble Sculptures
+- [Signs, Tags and Ribbons](https://steamcommunity.com/sharedfiles/filedetails/?id=2883096049)
+- [Clean Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=1937854017)
+- [Decor Lights](https://steamcommunity.com/sharedfiles/filedetails/?id=1732501619)
+- [Extra Moulding Skins Vanilla + DLC](https://steamcommunity.com/sharedfiles/filedetails/?id=2930191391)
+- [More Small Sculptures](https://steamcommunity.com/sharedfiles/filedetails/?id=2875363453)
+- [More Marble Sculptures](https://steamcommunity.com/sharedfiles/filedetails/?id=2789182100)
 
 ##  Game mecanics without a big impact
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1881925531 Queue for Sinks: this trades space by dup time 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2277619848 No Sensor Limits: increase sensors maximum
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1835785649 Mass Based Digging
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2911545239 Resource Sensor
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2654161103: Hatch Don't Eat Meat
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1974008313: Thermo Sensor as a Tile
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1921058858 Duplicant Number Sensor: if we wanted to do this without the mod, we would end up with a very large system for nothing really interesting
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2567122431 Food Older First
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1708823360 Flow Splitter: non existing mecanic, adding deepness 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2949194697 Atheletic Manual Generator: will add a variable to our decision while using the manual generator: which duplicant will generate the more versus improving athletics for a dup having not a lot. Setting: +10W per level.
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2777145427: Edge Dectectors Diode
+- [Queue for Sinks](https://steamcommunity.com/sharedfiles/filedetails/?id=1881925531) this trades space by dup time 
+- [No Sensor Limits](https://steamcommunity.com/sharedfiles/filedetails/?id=2277619848) increase sensors maximum
+- [Mass Based Digging](https://steamcommunity.com/sharedfiles/filedetails/?id=1835785649)
+- [Resource Sensor](https://steamcommunity.com/sharedfiles/filedetails/?id=2911545239)
+- [Hatch Don't Eat Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2654161103)
+- [Thermo Sensor as a Tile](https://steamcommunity.com/sharedfiles/filedetails/?id=1974008313)
+- [Duplicant Number Sensor](https://steamcommunity.com/sharedfiles/filedetails/?id=1921058858) if we wanted to do this without the mod, we would end up with a very large system for nothing really interesting
+- [Food Older First](https://steamcommunity.com/sharedfiles/filedetails/?id=2567122431)
+- [Flow Splitter](https://steamcommunity.com/sharedfiles/filedetails/?id=1708823360) non existing mecanic, adding depth 
+- [Atheletic Manual Generator](https://steamcommunity.com/sharedfiles/filedetails/?id=2949194697) will add a variable to our decision while using the manual generator: which duplicant will generate the more versus improving athletics for a dup having not a lot. Setting: +10W per level.
+- [Edge Dectectors Diode](https://steamcommunity.com/sharedfiles/filedetails/?id=2777145427)
 
 ## Game mecanics with big impact
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1838445101 DGSM - Duplicants Generation Settings Manager // by @Ony 👾: Settings:
+- [DGSM - Duplicants Generation Settings Manager // by @Ony 👾](https://steamcommunity.com/sharedfiles/filedetails/?id=1838445101) Settings:
   - Check "Unlock all duplicants personalities for starting", "Count in generated by Positive traits points", "Count in generated by Negative traits points"
   - Uncheck: "Print only Bionic Duplicants", "Print only Living Duplicants", "Enable for Printing Pod", 'Enable Printing POD re-roll", "No positive trait", "No negative trait", ""Fixed amount of positive traits", "Fixed amount of negative traits", "Fixed interests amount", "Redistribute interests points".
   - Duplicant count for Start = 3
   - Print only care packages when have alive Duplicants count: 7000
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2936854563 Mineralizer: this new building is balanced. Usage: waterweeds culture without having a geyser for it but costing power and salt that's not easy to get.
-- https://steamcommunity.com/sharedfiles/filedetails/?id=3375382664: Duplicants Lifecycle: this iq adding a lot to the game depending on how you configre it, moreover because you don't choose your dup. An interesting setting is to have short youth time, and variable end lifetime with attributes malus, meaning you should handle your old incapacited dups. 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2558069681 Chemical Burns: Will drastically change the way you open new spaces.  
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1910961538 Aquatique Farm: adding an option with its pros and cons. This could speedup your farms setup but you'll need to deal with the water depletion around the time. So early game but only as a transition. 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1907824546 Butcher and Fishing Station: without this mod we have two options: building an automated killing system doing it for free or using dup time with no space impact. This mod add a solution between these two but consuming power, a bit of space and dup labor. Settings: extra meat 0%. 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2967059775 More Logic Ports: add automations adding more options without simplifying it.
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2618339179: Freezer: Settings: 600W, passiv conso 240W, capacity 100kg. The goal is to have a durable storage but rapidly consuming a lot of space and power if quantities are important.
-- https://steamcommunity.com/sharedfiles/filedetails/?id=3235885361 Diet variety: This mod have no settings for dynamic evolution but I encourage you to make harder settings with cycles increasing. Startup settings: MinFoodTypesRequired = 3, MaxMealsCounted = 7, MoralePerFoodType= 1. 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2693850829 Block Decor Effects Behind Walls: Settings: disable the option for not blocking malus on buimding that cannot be placed in tiles. 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1872105871: Drywall Hides Pipes
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1892161928 Decor Reimagined: It'll push you to handle your resources surplus and to create big moral bonus at the beginning of your game. Settings: hardcore mod.
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1911357229: Diseases Restored: Interdiction to use the UV Cleaner as chlorine is already doing the job. This mod adds a lot of complexity. 
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2627657947: Diseases Expanded. The goal here is to add diseases that are not horrible to play but that adds complexity. Settings: 
+- [Mineralizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2936854563) this new building is balanced. Usage: waterweeds culture without having a geyser for it but costing power and salt that's not easy to get.
+- [Duplicants Lifecycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3375382664) this iq adding a lot to the game depending on how you configre it, moreover because you don't choose your dup. An interesting setting is to have short youth time, and variable end lifetime with attributes malus, meaning you should handle your old incapacited dups. 
+- [Chemical Burns](https://steamcommunity.com/sharedfiles/filedetails/?id=2558069681) Will drastically change the way you open new spaces.  
+- [Aquatique Farm](https://steamcommunity.com/sharedfiles/filedetails/?id=1910961538) adding an option with its pros and cons. This could speedup your farms setup but you'll need to deal with the water depletion around the time. So early game but only as a transition. 
+- [Butcher and Fishing Station](https://steamcommunity.com/sharedfiles/filedetails/?id=1907824546) without this mod we have two options: building an automated killing system doing it for free or using dup time with no space impact. This mod add a solution between these two but consuming power, a bit of space and dup labor. Settings: extra meat 0%. 
+- [More Logic Ports](https://steamcommunity.com/sharedfiles/filedetails/?id=2967059775) add automations adding more options without simplifying it.
+- [Freezer](https://steamcommunity.com/sharedfiles/filedetails/?id=2618339179) Settings: 600W, passiv conso 240W, capacity 100kg. The goal is to have a durable storage but rapidly consuming a lot of space and power if quantities are important.
+- [Diet variety](https://steamcommunity.com/sharedfiles/filedetails/?id=3235885361) This mod have no settings for dynamic evolution but I encourage you to make harder settings with cycles increasing. Startup settings: MinFoodTypesRequired = 3, MaxMealsCounted = 7, MoralePerFoodType= 1. 
+- [Block Decor Effects Behind Walls](https://steamcommunity.com/sharedfiles/filedetails/?id=2693850829) Settings: disable the option for not blocking malus on buimding that cannot be placed in tiles. 
+- [Drywall Hides Pipes](https://steamcommunity.com/sharedfiles/filedetails/?id=1872105871)
+- [Decor Reimagined](https://steamcommunity.com/sharedfiles/filedetails/?id=1892161928) It'll push you to handle your resources surplus and to create big moral bonus at the beginning of your game. Settings: hardcore mod.
+- [Diseases Restored](https://steamcommunity.com/sharedfiles/filedetails/?id=1911357229) Interdiction to use the UV Cleaner as chlorine is already doing the job. This mod adds a lot of complexity. 
+- [Diseases Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2627657947) The goal here is to add diseases that are not horrible to play but that adds complexity. Settings: 
   - Enable: Infect Raw Meat Drops With Germs, Auto detect Related Mods, Enable Medical Research Points, Mutating virus, Alien Goo.
   - Disable: Frequent Virus and Nanorobots Updates, Medical Nano Robots, Moo flux, Bog Insects
   - Interdiction to use the Scanner that removes the radiations of the asteroid.
   - Severity: everything to 1 except Forst Pox to 1.25 and Alien Goo at 0.5
--  https://steamcommunity.com/sharedfiles/filedetails/?id=3042467105: Darkness Not Excluded. A tremendous change to your game. Do not use easy cheats that breaks the immersion like using priority screen to search the location of important stuff. 
+- [Darkness Not Excluded](https://steamcommunity.com/sharedfiles/filedetails/?id=3042467105) A tremendous change to your game. Do not use easy cheats that breaks the immersion like using priority screen to search the location of important stuff. 
 
 
 
